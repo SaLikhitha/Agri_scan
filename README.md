@@ -8,7 +8,7 @@ Plant_Disease_Dataset/ │ ├── Train_plant_disease.ipynb # Notebook to tra
 
 🚀 Getting Started
 1. Clone the repository
-git clone  https://github.com/SaLikhitha/plant-disease-detection.git  cd plant-disease-detection/Plant_Disease_Dataset pip install -r requirement.txt
+git clone  https://github.com/SaLikhitha/Agri_scan.git  cd plant-disease-detection/Plant_Disease_Dataset pip install -r requirement.txt
 
 📊 Content Breakdown
 📁 train/ - 70,295 images
